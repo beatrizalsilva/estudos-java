@@ -1,4 +1,4 @@
-package devsagi.semana03.vetores.exercicio03;
+package devsagi.semana03.vetores.exercicio05;
 
 public class VariacaoPercentual {
     public static void main(String[] args) {
