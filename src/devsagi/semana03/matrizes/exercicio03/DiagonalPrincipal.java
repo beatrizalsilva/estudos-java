@@ -9,8 +9,8 @@ public class DiagonalPrincipal {
         };
 
         System.out.print("Diagonal principal: ");
-        for (int i = 0; i < matriz.length; i++) {
-            System.out.print(matriz[i][i] + " ");
+        for (int l=0; l<matriz.length; l++) {
+            System.out.print(matriz[l][l] + " ");
         }
     }
 }
